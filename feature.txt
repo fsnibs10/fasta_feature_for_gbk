@@ -1,0 +1,4 @@
+feature	gene	locus_tag	transl_table 	note	strand	start 	end 				
+CDS	SPMIT.01	cox1	4	NA	+	4886	5289	6500	6844	7926	8790
+gene	SPMIT.01	cox1	NA	cytochrome c oxidase 1 (predicted)	+	4886	8790				
+misc_RNA	SPMITTRNAARG.01	SPMITTRNAARG.01	NA	tRNA Arginine, mitochondrial	-	9818	9894	10000	10200		
